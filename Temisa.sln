@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temisa", "f:\victor ospino\documents\visual studio 2013\Projects\Temisa\Temisa\Temisa.csproj", "{72841580-085B-4245-9542-9AD51E5A11BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "f:\victor ospino\documents\visual studio 2013\Projects\Temisa\CapaDatos\CapaDatos.csproj", "{C0FE412F-9196-42A7-BEFD-60EAF3CA3917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocio", "f:\victor ospino\documents\visual studio 2013\Projects\Temisa\CapaNegocio\CapaNegocio.csproj", "{35AD6B6F-D094-4F3A-9F34-8E471D1D0274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaPresentacion", "f:\victor ospino\documents\visual studio 2013\Projects\Temisa\CapaPresentacion\CapaPresentacion.csproj", "{44DF77D7-2B9A-48F9-9C13-A84C29BD89F0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "f:\victor ospino\documents\visual studio 2013\Projects\Temisa\Setup\Setup.vdproj", "{8F5A0EAF-41AF-4EC5-8282-E8DEF9A499B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72841580-085B-4245-9542-9AD51E5A11BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72841580-085B-4245-9542-9AD51E5A11BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72841580-085B-4245-9542-9AD51E5A11BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72841580-085B-4245-9542-9AD51E5A11BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0FE412F-9196-42A7-BEFD-60EAF3CA3917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0FE412F-9196-42A7-BEFD-60EAF3CA3917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0FE412F-9196-42A7-BEFD-60EAF3CA3917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0FE412F-9196-42A7-BEFD-60EAF3CA3917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35AD6B6F-D094-4F3A-9F34-8E471D1D0274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AD6B6F-D094-4F3A-9F34-8E471D1D0274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AD6B6F-D094-4F3A-9F34-8E471D1D0274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AD6B6F-D094-4F3A-9F34-8E471D1D0274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44DF77D7-2B9A-48F9-9C13-A84C29BD89F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DF77D7-2B9A-48F9-9C13-A84C29BD89F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DF77D7-2B9A-48F9-9C13-A84C29BD89F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DF77D7-2B9A-48F9-9C13-A84C29BD89F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5A0EAF-41AF-4EC5-8282-E8DEF9A499B6}.Debug|Any CPU.ActiveCfg = Debug
+		{8F5A0EAF-41AF-4EC5-8282-E8DEF9A499B6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://arkancorp.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = f:\\victor\u0020ospino\\documents\\visual\u0020studio\u00202013\\Projects\\Temisa\\CapaDatos\\CapaDatos.csproj
+		SccProjectName1 = CapaDatos
+		SccLocalPath1 = f:\\victor\u0020ospino\\documents\\visual\u0020studio\u00202013\\Projects\\Temisa\\CapaDatos
+		SccProjectUniqueName2 = f:\\victor\u0020ospino\\documents\\visual\u0020studio\u00202013\\Projects\\Temisa\\CapaNegocio\\CapaNegocio.csproj
+		SccProjectName2 = CapaNegocio
+		SccLocalPath2 = f:\\victor\u0020ospino\\documents\\visual\u0020studio\u00202013\\Projects\\Temisa\\CapaNegocio
+		SccProjectUniqueName3 = f:\\victor\u0020ospino\\documents\\visual\u0020studio\u00202013\\Projects\\Temisa\\CapaPresentacion\\CapaPresentacion.csproj
+		SccProjectName3 = CapaPresentacion
+		SccLocalPath3 = f:\\victor\u0020ospino\\documents\\visual\u0020studio\u00202013\\Projects\\Temisa\\CapaPresentacion
+		SccProjectUniqueName4 = f:\\victor\u0020ospino\\documents\\visual\u0020studio\u00202013\\Projects\\Temisa\\Setup\\Setup.vdproj
+		SccProjectName4 = Setup
+		SccLocalPath4 = f:\\victor\u0020ospino\\documents\\visual\u0020studio\u00202013\\Projects\\Temisa\\Setup
+		SccProjectUniqueName5 = f:\\victor\u0020ospino\\documents\\visual\u0020studio\u00202013\\Projects\\Temisa\\Temisa\\Temisa.csproj
+		SccProjectName5 = Temisa
+		SccLocalPath5 = f:\\victor\u0020ospino\\documents\\visual\u0020studio\u00202013\\Projects\\Temisa\\Temisa
+	EndGlobalSection
+EndGlobal
